@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className='bg-green-600 text-3xl text-center text-pink-900'>Contact us on ameer..........10@gmail.com</div>
+    <div className='text-4xl text-green-700'>AMEER HAMZA SOOMRO</div>
   )
 }
 
